@@ -7,10 +7,10 @@
     "colors": {
         "primary": "#FFFFFF",
         "secondary": "#FFFFFF",
-        "quaternary": "#008000",
-        "tertiary": "#FFFF00",
-        "error": "#FF0000",
-        "warning": "#FF0000",
-        "success": "#00FF00"
+        "quaternary": "#EC00FF",
+        "tertiary": "#00FF9B",
+        "error": "#FF6800",
+        "warning": "#FF1300",
+        "success": "#00FF36"
     }
 }
