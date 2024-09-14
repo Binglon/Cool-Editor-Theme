@@ -5,8 +5,8 @@
     "author": "fieryhenry",
     "version": "1.0.1",
     "colors": {
-        "primary": "#FFFFFF",
-        "secondary": "#FFFFFF",
+        "primary": "#FF009B",
+        "secondary": "#FF009B",
         "quaternary": "#EC00FF",
         "tertiary": "#00FF9B",
         "error": "#FF6800",
